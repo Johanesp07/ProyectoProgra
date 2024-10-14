@@ -1,0 +1,36 @@
+Boleta Número: BO-480051
+Nombre: Andrés Araya Saborío
+Correo: aara28312@gmail.com
+Fecha: 2024-10-06
+Horas: 8
+Checklist: Completado
+
+Boleta Número: BO-97102
+Nombre: Gabriel Araya Saborío
+Correo: saborioanaraya1106@gmail.com
+Fecha: 2024-10-06
+Horas: 10
+Checklist: Completado
+
+{
+  "boletaNum": "BO-558385",
+  "cliente": "Andres",
+  "tecnico": "212212",
+  "fecha": "2024-10-11",
+  "numeroIncidencia": "1234",
+  "modelo": "1234",
+  "serie": "2121",
+  "motivoServicio": "2121",
+  "condicionEquipo": "1234",
+  "accionTomada": "2111212",
+  "motivoLlamada": "2212121",
+  "ubicacionFalla": "21111212",
+  "tipoFalla": "dwaaadd",
+  "horaInicialViaje": "21:32",
+  "horaFinalViaje": "21:32",
+  "horaInicialTrabajo": "21:32",
+  "horaFinalTrabajo": "21:32",
+  "checklistAmbiente": "[\"Adecuado\",\"TomaTierra\"]",
+  "checklistInsumos": "[]",
+  "checklistUnidades": "[\"UnidadTransferencia\",\"Finalizador\"]"
+}
